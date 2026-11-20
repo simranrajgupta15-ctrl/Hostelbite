@@ -1,0 +1,6 @@
+{
+  "name": "HostelBite",
+  "description": "Student-focused food-ordering and meal-subscription platform connecting Dehradun hostel and PG students with nearby home chefs and local food providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
